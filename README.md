@@ -43,9 +43,8 @@
 </details></pre>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Animation - 1728863224994](https://github.com/user-attachments/assets/74b74bba-f31b-42e7-82e1-947e7f6b4f32)
 
-<img align="center" height="200" src="https://github.com/user-attachments/assets/74b74bba-f31b-42e7-82e1-947e7f6b4f32"/>
+<img align="center" height="100" src="https://github.com/user-attachments/assets/74b74bba-f31b-42e7-82e1-947e7f6b4f32"/>
 <h1>Skills</h1>
 <h2 align="left">Tech Stack</h2>
 
