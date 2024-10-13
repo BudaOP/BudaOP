@@ -140,7 +140,7 @@
 
 <h2 align="left">Tech Stack</h2>
 
-<table>
+<table align="left">
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"/></td>
@@ -166,7 +166,7 @@
 
 <h2 align="left">Design Stack</h2>
 
-<table>
+<table align="left">
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" height="40" alt="illustrator logo"/></td>
