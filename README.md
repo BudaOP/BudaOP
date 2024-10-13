@@ -6,7 +6,7 @@
 
 ###
 
-<img align="left" height="2000" src="https://github.com/user-attachments/assets/441be72a-9c27-4997-ab74-3d14ab6e88ef" style="margin-right: 20px;" />
+<img align="left" height="200" src="https://github.com/user-attachments/assets/441be72a-9c27-4997-ab74-3d14ab6e88ef" style="margin-right: 20px;" />
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -44,7 +44,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<img align="center" height="100" src="https://github.com/user-attachments/assets/74b74bba-f31b-42e7-82e1-947e7f6b4f32"/>
+<img align="center" height="1000" src="https://github.com/user-attachments/assets/74b74bba-f31b-42e7-82e1-947e7f6b4f32"/>
 <h1>Skills</h1>
 <h2 align="left">Tech Stack</h2>
 
