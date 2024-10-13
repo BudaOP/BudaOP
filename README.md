@@ -126,5 +126,8 @@
 
 ![QRAI-GITHUB](https://github.com/user-attachments/assets/ec9578c5-60d6-4826-bcd7-21f857033541)
 
+> [!NOTE]  
+> Hi there! Just wanted to let you know that Qrai is currently only a demo and not published anywhere. If you'd like to know more, feel free to ask me directly on social media. I'd love to hear from you!
+
 <img align="center" height="100" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
 
