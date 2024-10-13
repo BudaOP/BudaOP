@@ -143,6 +143,8 @@
 
 <pre>
   <pre align="center">YOOOO</pre>
+  --- | --- | ---
+ | Yooo |
 
   nadsnalksjdjaskldmlkadlkamkldmalsmdlkmlk<br>
   aksjdnkasjdlknakjsndjkanskjdnakjndkjasnkjdnak
