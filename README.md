@@ -141,11 +141,3 @@
 
 <img align="center" height="100" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
 
-<pre>
-  <pre align="center">YOOOO</pre>
-  --- | --- | ---
- | Yooo |
-
-  nadsnalksjdjaskldmlkadlkamkldmalsmdlkmlk<br>
-  aksjdnkasjdlknakjsndjkanskjdnakjndkjasnkjdnak
-</pre>
