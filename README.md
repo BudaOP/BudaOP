@@ -166,7 +166,7 @@
 
 <h2 align="left">Design Stack</h2>
 
-<table align="left">
+<table align="right">
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" height="40" alt="illustrator logo"/></td>
