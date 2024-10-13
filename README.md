@@ -118,11 +118,13 @@
 
 <h1>👨🏽‍💻 Projects</h1>
 
-<h2>Job$cout</h2>
+<h1>Job$cout</h1>
 
 ![JOBSCOUT-GITHUB](https://github.com/user-attachments/assets/0a975e62-4f2a-4fca-9f4a-88ab3be2ae3e)
 
-<h2>Qrai</h2>
+<h1>Qrai</h1>
+
+![QRAI-GITHUB](https://github.com/user-attachments/assets/ec9578c5-60d6-4826-bcd7-21f857033541)
 
 <img align="center" height="100" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
 
