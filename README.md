@@ -43,7 +43,6 @@
 </details></pre>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![tenor](https://github.com/user-attachments/assets/4d61476a-013b-465d-9660-17d533101b93)
 
 <img align="center" height="40" src="https://github.com/user-attachments/assets/4d61476a-013b-465d-9660-17d533101b93"/>
 <h1>Skills</h1>
