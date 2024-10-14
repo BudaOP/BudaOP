@@ -37,7 +37,7 @@ Let's bring some creative ideas to life together!
 
 🌟 Let's collaborate and make something amazing together!
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/BudaOP/github-widgetbox">
     <img src="https://github-widgetbox.vercel.app/api/profile?username=BudaOP&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub WidgetBox" />
   </a>
