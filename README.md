@@ -147,6 +147,8 @@
   <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg" width="52" height="40" alt="Instagram logo" style="text-decoration: none;"/>
 </a>
 
+[![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg)](https://linkedin.com/in/ivan-budanov/)
+[![Instagram](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg)](https://instagram.com/ibudxnov)
 
 
 <br>
