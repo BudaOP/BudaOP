@@ -45,6 +45,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <img align="center" height="40" src="https://github.com/user-attachments/assets/4d61476a-013b-465d-9660-17d533101b93"/>
+
+<div class="tenor-gif-embed" data-postid="14253127230987377403" data-share-method="host" data-aspect-ratio="8.33333" data-width="100%"><a href="https://tenor.com/view/blue-divider-gif-14253127230987377403">Blue Divider Sticker</a>from <a href="https://tenor.com/search/blue+divider-stickers">Blue Divider Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 <h1>Skills</h1>
 <h2 align="left">Tech Stack</h2>
 
