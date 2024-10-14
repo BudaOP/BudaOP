@@ -42,12 +42,6 @@ Let's bring some creative ideas to life together!
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <div align="center">
-  <a href="https://github.com/BudaOP/github-widgetbox">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=BudaOP&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub WidgetBox" />
-  </a>
-</div>
-
-<div align="center">
 <img align="center" height="200" src="https://github.com/user-attachments/assets/3e1bcc69-bda4-478e-ae5c-4d8eedfe6d0e"/>
 </div>
 
@@ -141,6 +135,11 @@ Let's bring some creative ideas to life together!
 
 <div align="center">
 <h2>📨 Let’s connect and explore ideas together! </h2>
+<div align="center">
+  <a href="https://github.com/BudaOP/github-widgetbox">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=BudaOP&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub WidgetBox" />
+  </a>
+</div>
 
 [![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg)](https://linkedin.com/in/ivan-budanov/)
 [![Instagram](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg)](https://instagram.com/ibudxnov)
