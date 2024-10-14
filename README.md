@@ -45,7 +45,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <div align="center">
-<img align="center" width="200" src="https://github.com/user-attachments/assets/3e1bcc69-bda4-478e-ae5c-4d8eedfe6d0e"/>
+<img align="center" height="200" src="https://github.com/user-attachments/assets/3e1bcc69-bda4-478e-ae5c-4d8eedfe6d0e"/>
 </div>
 
 <h1>Skills</h1>
