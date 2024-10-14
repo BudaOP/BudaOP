@@ -121,6 +121,8 @@
 > [!NOTE]  
 > Hi there! Just wanted to let you know that Qrai is currently only a demo and not published anywhere. If you'd like to know more, feel free to ask me directly on social media. I'd love to hear from you!
 
+***
+
 <div align="center">
 <img align="center" height="35" src="https://github.com/user-attachments/assets/866e81c6-568e-4c37-a906-72d28f759478"/>
 </div>
