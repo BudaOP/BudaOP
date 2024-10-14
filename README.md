@@ -116,9 +116,7 @@
 
 <br>&nbsp;
 
-
-
-<pre>Email: ibudanov24@gmail.com</pre>
+<h3>Email: ibudanov24@gmail.com</h3>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
