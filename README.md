@@ -45,10 +45,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-![61c57b5c3a9e8672cd2c8ba3a2729dfc](https://github.com/user-attachments/assets/3e1bcc69-bda4-478e-ae5c-4d8eedfe6d0e)
-
-
-<img align="center" width="2000" src="https://github.com/user-attachments/assets/eb1d4d43-48d7-452c-8b2b-f6a143623e6a"/>
+<img align="center" width="200" src="https://github.com/user-attachments/assets/3e1bcc69-bda4-478e-ae5c-4d8eedfe6d0e"/>
 
 <h1>Skills</h1>
 <h2 align="left">Tech Stack</h2>
