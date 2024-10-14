@@ -21,7 +21,8 @@ building applications, games, and mobile experiences that solve real problems.
 Whether it's full-stack development or exploring new tech stacks, 
 I strive to deliver quality results with a taste ✨
 
-Let's bring some creative ideas to life together! 🚀 Stay tuned for more exciting projects coming your way!
+Let's bring some creative ideas to life together! 
+🚀 Stay tuned for more exciting projects coming your way!
 <details>
   <summary><h2>🏀 More About Me</h2></summary>
 
