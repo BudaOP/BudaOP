@@ -29,8 +29,6 @@ Let's bring some creative ideas to life together!
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-
-
   
 🎓 Student @Metropolia UAS, pursuing Information & Communication Tech
 🔍 Main interests: Software development, app & game creation, mobile experiences
