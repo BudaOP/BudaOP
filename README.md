@@ -26,6 +26,11 @@ Let's bring some creative ideas to life together!
 <details>
   <summary><h2>🏀 More About Me</h2></summary>
 
+  ![brickshot-ezgif com-webp-to-gif-converter](https://github.com/user-attachments/assets/9b2a68ec-0299-407a-8793-0203c236ea53)
+
+  <img align="left" height="100" src="ttps://github.com/user-attachments/assets/9b2a68ec-0299-407a-8793-0203c236ea53"  />
+
+
 <img align="right" height="100" src="https://github.com/user-attachments/assets/656beae8-70fc-4f49-80d6-836668b984d4"  />
 
   
