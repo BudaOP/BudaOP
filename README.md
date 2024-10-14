@@ -1,5 +1,4 @@
 <br clear="both">
-![me4](https://github.com/user-attachments/assets/e2f5c0cf-27b2-4b7a-9ec9-7974eecf253f)
 
 
 <div align="center">
