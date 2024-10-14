@@ -34,7 +34,7 @@
 🌐 Main tools & languages: MERN stack, Python, SQL, Flask, Unity, React Native
 🎨 Hobbies: Basketball, music production, graphic design, video editing
 ✨ Let's collaborate and make something amazing together!
-🐧 Favourite animals are penguins, probably because of The Penguins of Madagascar show when I was a kid.
+🐧 Favourite animals are penguins, probably because of Penguins of Madagascar show when I was a kid
   
 </details></pre>
 
