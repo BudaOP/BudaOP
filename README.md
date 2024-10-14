@@ -113,9 +113,11 @@
 
 ![JOBSCOUT-GITHUB](https://github.com/user-attachments/assets/0a975e62-4f2a-4fca-9f4a-88ab3be2ae3e)
 
+<div align="center">
   <a align="center" href="https://jobscout-frontend.onrender.com/" target="_blank" style="text-decoration: none;">
   <img src="https://github.com/user-attachments/assets/e1352968-4a44-483c-bfe1-a98dddbda16e" align="center" alt="LinkedIn logo" style="text-decoration: none;"/>
 </a>
+</div>
 
 <h1>Qrai</h1>
 
