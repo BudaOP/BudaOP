@@ -2,19 +2,10 @@
 
 
 <div align="center">
-  <img height="430" src="https://github.com/user-attachments/assets/44630d1e-9d37-4bc2-9b90-57260d69f3c6"  />
+  <img src="https://github.com/user-attachments/assets/44630d1e-9d37-4bc2-9b90-57260d69f3c6"  />
 </div>
 
 ###
-
-<div align="center">
-  <a href="https://github.com/BudaOP/github-widgetbox">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=BudaOP&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub WidgetBox" />
-  </a>
-</div>
-
-
-
 
 <img align="left" height="200" src="https://github.com/user-attachments/assets/e2f5c0cf-27b2-4b7a-9ec9-7974eecf253f" style="margin-right: 20px;" />
 
@@ -52,6 +43,12 @@ Let's bring some creative ideas to life together!
 
 <div align="center">
 <img align="center" height="200" src="https://github.com/user-attachments/assets/3e1bcc69-bda4-478e-ae5c-4d8eedfe6d0e"/>
+</div>
+
+<div align="center">
+  <a href="https://github.com/BudaOP/github-widgetbox">
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=BudaOP&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub WidgetBox" />
+  </a>
 </div>
 
 <h1>Skills</h1>
