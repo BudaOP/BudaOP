@@ -132,7 +132,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <div align="center">
-<h2>📨 Would like to hear from you! Let's connect! </h2>
+<h2>📨 Let’s connect and explore ideas together! </h2>
 
   <a href="https://linkedin.com/in/ivan-budanov/" target="_blank" style="text-decoration: none;">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" style="text-decoration: none;"/>
