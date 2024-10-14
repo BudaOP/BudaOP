@@ -27,7 +27,7 @@ Let's bring some creative ideas to life together!
   <summary><h2>🏀 More About Me</h2></summary>
 
 <div align="center">
-  <img align="center" height="150" src="https://github.com/user-attachments/assets/9b2a68ec-0299-407a-8793-0203c236ea53"  />
+  <img align="center" height="400" src="https://github.com/user-attachments/assets/9b2a68ec-0299-407a-8793-0203c236ea53"  />
 </div>
 
 <img align="right" height="100" src="https://github.com/user-attachments/assets/656beae8-70fc-4f49-80d6-836668b984d4"  />
