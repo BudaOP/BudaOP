@@ -43,10 +43,9 @@
 </details></pre>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![tenor](https://github.com/user-attachments/assets/4d61476a-013b-465d-9660-17d533101b93)
 
-https://tenor.com/fi/view/dividers-divider-galaxy-dividers-galaxy-divider-gif-5911665922248763465
-
-<img align="center" height="10" src="https://tenor.com/fi/view/dividers-divider-galaxy-dividers-galaxy-divider-gif-5911665922248763465"/>
+<img align="center" height="10" src="https://github.com/user-attachments/assets/4d61476a-013b-465d-9660-17d533101b93"/>
 <h1>Skills</h1>
 <h2 align="left">Tech Stack</h2>
 
