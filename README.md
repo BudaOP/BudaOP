@@ -21,12 +21,11 @@
 ✨ Let's collaborate and make something amazing together!
 🐧 Favourite animals are penguins, probably because of Penguins of Madagascar show when I was a kid
 
-  
 <details>
   <summary><h2>🏀 More About Me</h2></summary>
 
   <div align="center">
-  <img height="200" src="https://github.com/user-attachments/assets/39996017-6855-4e32-806b-a24906c8209a"  />
+  <img height="100" src="https://github.com/user-attachments/assets/39996017-6855-4e32-806b-a24906c8209a"  />
 </div>
   
 🎓 Student @Metropolia UAS, pursuing Information & Communication Tech
