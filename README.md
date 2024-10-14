@@ -115,7 +115,7 @@
 </a>
 
 <div align="center">
-<img align="center" height="200" src="https://github.com/user-attachments/assets/84c08719-ef96-494b-9c87-d597bb685a9e"/>
+<img align="center" height="100" src="https://github.com/user-attachments/assets/84c08719-ef96-494b-9c87-d597bb685a9e"/>
 </div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
