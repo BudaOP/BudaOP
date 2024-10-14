@@ -117,7 +117,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <div align="center">
-<img align="center" height="100" src="https://github.com/user-attachments/assets/c8d57cbf-eda9-4532-b7f4-c79798a8a9d8"/>
+<img align="center" height="50" src="https://github.com/user-attachments/assets/c8d57cbf-eda9-4532-b7f4-c79798a8a9d8"/>
 </div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
