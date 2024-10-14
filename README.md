@@ -8,8 +8,9 @@
 ###
 
 <div align="center">
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=BudaOP&data=followers,repositories,stars,commits)](https://github.com/BudaOP/github-widgetbox)
+  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=BudaOP&data=followers,repositories,stars,commits)](https://github.com/BudaOP/github-widgetbox)
 </div>
+
 
 <img align="left" height="200" src="https://github.com/user-attachments/assets/e2f5c0cf-27b2-4b7a-9ec9-7974eecf253f" style="margin-right: 20px;" />
 
