@@ -1,11 +1,5 @@
 <br clear="both">
 
-<a href="https://instagram.com/ibudxnov" target="_blank">
-  <button style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; font-size: 16px; border: none; border-radius: 5px;">
-    Follow me on Instagram
-  </button>
-</a>
-
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/44630d1e-9d37-4bc2-9b90-57260d69f3c6"  />
