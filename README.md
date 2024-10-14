@@ -44,7 +44,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<img align="center" height="200" src="https://github.com/user-attachments/assets/eb1d4d43-48d7-452c-8b2b-f6a143623e6a"/>
+<img align="center" height="100" src="https://github.com/user-attachments/assets/eb1d4d43-48d7-452c-8b2b-f6a143623e6a"/>
 
 <h1>Skills</h1>
 <h2 align="left">Tech Stack</h2>
