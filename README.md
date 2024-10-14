@@ -7,7 +7,7 @@
 
 ###
 
-<img align="left" height="150" src="https://github.com/user-attachments/assets/e2f5c0cf-27b2-4b7a-9ec9-7974eecf253f" style="margin-right: 20px;" />
+<img align="left" height="200" src="https://github.com/user-attachments/assets/e2f5c0cf-27b2-4b7a-9ec9-7974eecf253f" style="margin-right: 20px;" />
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -25,7 +25,7 @@
 <details>
   <summary><h2>🏀 More About Me</h2></summary>
 
-<img align="left" height="200" src="https://github.com/user-attachments/assets/39996017-6855-4e32-806b-a24906c8209a"  />
+<img align="left" height="150" src="https://github.com/user-attachments/assets/39996017-6855-4e32-806b-a24906c8209a"  />
   
 🎓 Student @Metropolia UAS, pursuing Information & Communication Tech
 🔍 Main interests: Software development, app & game creation, mobile experiences
