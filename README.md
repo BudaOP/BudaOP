@@ -24,9 +24,7 @@
 <details>
   <summary><h2>🏀 More About Me</h2></summary>
 
-  <div align="center">
-  <img height="100" src="https://github.com/user-attachments/assets/39996017-6855-4e32-806b-a24906c8209a"  />
-</div>
+<img align="left" height="100" src="https://github.com/user-attachments/assets/39996017-6855-4e32-806b-a24906c8209a"  />
   
 🎓 Student @Metropolia UAS, pursuing Information & Communication Tech
 🔍 Main interests: Software development, app & game creation, mobile experiences
