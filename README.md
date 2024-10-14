@@ -13,8 +13,8 @@
 
 <pre align="left">
 👋 Hi there! I'm a passionate software engineering enthusiast with a love for
- creating innovative and impactful solutions. 
- I enjoy blending creativity with technology, building applications, games, and mobile experiences that solve real problems. 
+ creating innovative and impactful solutions. I enjoy blending creativity with technology, 
+ building applications, games, and mobile experiences that solve real problems. 
  Whether it's full-stack development or exploring new tech stacks, I strive to deliver quality results with a flair.
 
 Let's bring some creative ideas to life together! 🚀 Stay tuned for more exciting projects coming your way!
