@@ -148,7 +148,7 @@
 </a>
 
 <a href="https://instagram.com/ibudxnov" target="_blank" style="text-decoration: none;">
-<h3>Download the resume</h3>
+Download the resume
 </a>
 
 <h3>Email: ibudanov24@gmail.com</h3>
