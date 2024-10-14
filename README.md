@@ -150,7 +150,7 @@
 <br>
 
 <a href="https://instagram.com/ibudxnov" target="_blank" style="text-decoration: none;">
-Download the resume
+<p>Employer? </p>Download the resume<p>!</p>
 </a>
 
 <h3>Email: ibudanov24@gmail.com</h3>
