@@ -28,8 +28,10 @@
   
 <details>
   <summary><h2>🏀 More About Me</h2></summary>
-  
-  <img align="left" height="200" src="https://github.com/user-attachments/assets/39996017-6855-4e32-806b-a24906c8209a"  />
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/39996017-6855-4e32-806b-a24906c8209a"  />
+</div>
   
   🎓 MSc Computer engineering student @Unibo  
   🔍 Main interests in AI & Cybersec  
