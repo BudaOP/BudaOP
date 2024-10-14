@@ -138,6 +138,7 @@
 > [!NOTE]  
 > Hi there! Just wanted to let you know that Qrai is currently only a demo and not published anywhere. If you'd like to know more, feel free to ask me directly on social media. I'd love to hear from you!
 
+![tenor (1)](https://github.com/user-attachments/assets/73eebd72-4100-48e1-b6c9-32f8492f6cc6)
 
 <h1>(emoji) Would like to hear from you! Let's connect! </h1>
 link to my linkedin and gmail added
