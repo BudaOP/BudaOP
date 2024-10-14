@@ -12,15 +12,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <pre align="left">
-🎓 Student @Metropolia UAS, pursuing Information & Communication Tech
-🔍 Main interests: Software development, app & game creation, mobile experiences
-🛠 Working on JobScout, improving and refining it; new projects coming soon!
-📚 Learning more about full-stack dev and mobile app development
-🌐 Main tools & languages: MERN stack, Python, SQL, Flask, Unity, React Native
-🎨 Hobbies: Basketball, music production, graphic design, video editing
-✨ Let's collaborate and make something amazing together!
-🐧 Favourite animals are penguins, probably because of Penguins of Madagascar show when I was a kid
+👋 Hi there! I'm a passionate software engineering enthusiast with a love for creating innovative and impactful solutions. I enjoy blending creativity with technology, building applications, games, and mobile experiences that solve real problems. Whether it's full-stack development or exploring new tech stacks, I strive to deliver quality results with a flair.
 
+Let's bring some creative ideas to life together! 🚀 Stay tuned for more exciting projects coming your way!
 <details>
   <summary><h2>🏀 More About Me</h2></summary>
 
