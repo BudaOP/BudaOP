@@ -115,7 +115,7 @@
 
 <div align="center">
   <a align="center" href="https://jobscout-frontend.onrender.com/" target="_blank" style="text-decoration: none;">
-  <img height="40" src="https://github.com/user-attachments/assets/8c2af83a-b73a-4146-995c-b9b982a3a51d" align="center" alt="LinkedIn logo" style="text-decoration: none;"/>
+  <img height="50" src="https://github.com/user-attachments/assets/8c2af83a-b73a-4146-995c-b9b982a3a51d" align="center" alt="LinkedIn logo" style="text-decoration: none;"/>
 </a>
 </div>
 
