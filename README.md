@@ -114,8 +114,7 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram logo" style="text-decoration: none;"/>
 </a>
 
-
-<img align="center" height="10" src="https://github.com/user-attachments/assets/5e1f32a4-fb95-41d2-b7b2-8d4278739879"/>
+<img align="center" height="10" src="https://github.com/user-attachments/assets/84c08719-ef96-494b-9c87-d597bb685a9e"/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
