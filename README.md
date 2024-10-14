@@ -35,7 +35,7 @@ Let's bring some creative ideas to life together!
 🎨 Hobbies: Basketball, music production, graphic design, video editing
 🐧 Favourite animals are penguins, probably because of Penguins of Madagascar show when I was a kid
 
-Let's collaborate and make something amazing together! 🌟
+<p>Let's collaborate and make something amazing together! 🌟</p>
   
 </details></pre>
 
