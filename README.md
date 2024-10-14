@@ -148,10 +148,10 @@
 </a>
 
 <br>
+<br>
 
-<p>Employer? </p>
 <a href="https://instagram.com/ibudxnov" target="_blank" style="text-decoration: none;">Download the resume</a>
-<p>!</p>
+
 
 <h3>Email: ibudanov24@gmail.com</h3>
 
