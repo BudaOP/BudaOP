@@ -6,7 +6,7 @@
 
 ###
 
-<img align="left" height="1000" src="https://github.com/user-attachments/assets/441be72a-9c27-4997-ab74-3d14ab6e88ef" style="margin-right: 20px;" />
+<img align="left" height="200" src="https://github.com/user-attachments/assets/441be72a-9c27-4997-ab74-3d14ab6e88ef" style="margin-right: 20px;" />
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -45,7 +45,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![tenor](https://github.com/user-attachments/assets/4d61476a-013b-465d-9660-17d533101b93)
 
-<img align="center" height="10" src="https://github.com/user-attachments/assets/4d61476a-013b-465d-9660-17d533101b93"/>
+<img align="center" height="200" src="https://github.com/user-attachments/assets/4d61476a-013b-465d-9660-17d533101b93"/>
 <h1>Skills</h1>
 <h2 align="left">Tech Stack</h2>
 
