@@ -142,9 +142,7 @@
 <img align="center" height="50" src="https://github.com/user-attachments/assets/294ee287-4c19-444b-a9b0-81507aa00f14"/>
 </div>
 
-
-<h1>(emoji) Would like to hear from you! Let's connect! </h1>
-link to my linkedin and gmail added
-
-<img align="center" height="100" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
+<div align="center">
+<h2>📨 Would like to hear from you! Let's connect! </h2>
+</div>
 
