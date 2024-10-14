@@ -12,19 +12,14 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <pre>
-🎓 MSc Computer engineering student @Unibo  
-🔍 Main interests in AI & Cybersec  
-🛠 Working on Deep Learning-based cybersecurity solutions  
-📚 Learning about Computer Vision and Machine Learning stuff  
-🌐 Main languages: Python, C/C++, Java  
-🚩 Currently involved in CTF competitions and sysadmin tasks  
-🛡️ Interested in network security and web security  
-❤️ In a complicated relationship with Suricata IDS  
-🎨 Love drawing portraits and cute stuff, cycling, going to concerts  
-🎶 Love metal, rock, jazz, and blues  
-🍅 Love ketchup (but not on pasta or pizza)  
-👨‍💻 Total commits: 6060  
-⭐ Total stars gained: 172
+🎓 Student @Metropolia UAS, pursuing Information & Communication Tech
+🔍 Main interests: Software development, app & game creation, mobile experiences
+🛠 Working on JobScout, improving and refining it; new projects coming soon!
+📚 Learning more about full-stack dev and mobile app development
+🌐 Main tools & languages: MERN stack, Python, SQL, Flask, Unity, React Native
+🎨 Hobbies: Basketball, music production, graphic design, video editing
+✨ Let's collaborate and make something amazing together!
+🐧 Favourite animals are penguins, probably because of The Penguins of Madagascar show when I was a kid.
 
   
 <details>
@@ -32,14 +27,14 @@
 
 <img align="left" height="200" src="https://github.com/user-attachments/assets/39996017-6855-4e32-806b-a24906c8209a"  />
   
-  🎓 MSc Computer engineering student @Unibo  
-  🔍 Main interests in AI & Cybersec  
-  🛠 Working on Deep Learning-based cybersecurity solutions  
-  📚 Learning about Computer Vision and Machine Learning stuff  
-  🌐 Main languages: Python, C/C++, Java  
-  🚩 Currently involved in CTF competitions and sysadmin tasks  
-  🛡️ Interested in network security and web security  
-  ❤️ In a complicated relationship with Suricata IDS
+🎓 Student @Metropolia UAS, pursuing Information & Communication Tech
+🔍 Main interests: Software development, app & game creation, mobile experiences
+🛠 Working on JobScout, improving and refining it; new projects coming soon!
+📚 Learning more about full-stack dev and mobile app development
+🌐 Main tools & languages: MERN stack, Python, SQL, Flask, Unity, React Native
+🎨 Hobbies: Basketball, music production, graphic design, video editing
+✨ Let's collaborate and make something amazing together!
+🐧 Favourite animals are penguins, probably because of The Penguins of Madagascar show when I was a kid.
   
 </details></pre>
 
