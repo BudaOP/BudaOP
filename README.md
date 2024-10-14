@@ -29,7 +29,7 @@ Let's bring some creative ideas to life together!
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<h3>Quick Facts About Me 🖼️</h3>
+<h3 align="left">Quick Facts About Me 🖼️</h3>
 🎓 Student @Metropolia UAS, pursuing Information & Communication Tech
 🔍 Main interests: Software development, app & game creation, mobile experiences
 🛠 Working on JobScout, improving and refining it; new projects coming soon!
