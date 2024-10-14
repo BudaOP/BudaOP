@@ -43,9 +43,9 @@
 </details></pre>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Animation - 1728863533037](https://github.com/user-attachments/assets/65da1a10-9f25-43f7-a063-dd905efa73ac)
+![Animation - 1728863877614](https://github.com/user-attachments/assets/62642f20-bdc5-4d54-800b-3dbd0c1557ca)
 
-<img align="center" height="200" src="https://github.com/user-attachments/assets/65da1a10-9f25-43f7-a063-dd905efa73ac"/>
+<img align="center" height="200" src="https://github.com/user-attachments/assets/62642f20-bdc5-4d54-800b-3dbd0c1557ca"/>
 <h1>Skills</h1>
 <h2 align="left">Tech Stack</h2>
 
