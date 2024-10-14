@@ -135,11 +135,8 @@
 
 <div align="center">
 <h2>📨 Would like to hear from you! Let's connect! </h2>
-</div>
 
-<h2 align="left">Socials</h2>
-
-<a href="https://linkedin.com/in/ivan-budanov/" target="_blank" style="text-decoration: none;">
+  <a href="https://linkedin.com/in/ivan-budanov/" target="_blank" style="text-decoration: none;">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" style="text-decoration: none;"/>
 </a>
 <a href="https://instagram.com/ibudxnov" target="_blank" style="text-decoration: none;">
@@ -147,4 +144,5 @@
 </a>
 
 <h3>Email: ibudanov24@gmail.com</h3>
+</div>
 
