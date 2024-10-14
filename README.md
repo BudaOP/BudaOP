@@ -9,9 +9,10 @@
 
 <div align="center">
   <a href="https://github.com/BudaOP/github-widgetbox">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=BudaOP&data=followers,repositories,stars,commits" alt="GitHub WidgetBox" />
+    <img src="https://github-widgetbox.vercel.app/api/profile?username=BudaOP&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub WidgetBox" />
   </a>
 </div>
+
 
 
 
