@@ -29,7 +29,7 @@ Let's bring some creative ideas to life together!
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<h3>Quick Facts About Me ✨</h3>
+<h3>Quick Facts About Me 🖼️</h3>
 🎓 Student @Metropolia UAS, pursuing Information & Communication Tech
 🔍 Main interests: Software development, app & game creation, mobile experiences
 🛠 Working on JobScout, improving and refining it; new projects coming soon!
@@ -37,7 +37,8 @@ Let's bring some creative ideas to life together!
 🌐 Main tools & languages: MERN stack, Python, SQL, Flask, Unity, React Native
 🎨 Hobbies: Basketball, music production, graphic design, video editing
 🐧 Favourite animals are penguins, probably because of Penguins of Madagascar show when I was a kid
-✨ Let's collaborate and make something amazing together!
+
+🌟 Let's collaborate and make something amazing together!
   
 </details></pre>
 
