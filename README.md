@@ -137,7 +137,9 @@ Let's collaborate and make something amazing together! 🌟
 <h2>📨 Let’s connect and explore ideas together! </h2>
 
 [![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg)](https://linkedin.com/in/ivan-budanov/)
-or <a href="https://buda.fi/" style="color: orange; text-decoration: none;">Visit Website</a>
+<br>
+or<br>
+<a href="https://buda.fi/" style="color: orange; text-decoration: none;">Visit Website</a>
 
 
 
