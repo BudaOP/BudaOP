@@ -143,7 +143,7 @@ Let's collaborate and make something amazing together! 🌟
 <br>
 <br>
 
-<a href="[https://instagram.com/ibudxnov](https://buda.fi/img/ivan_budanov_cv.pdf)" target="_blank" style="text-decoration: none;">Download the resume</a>
+<a href="https://buda.fi/img/ivan_budanov_cv.pdf" target="_blank" style="text-decoration: none;">Download the resume</a>
 
 
 <h3>Email: ibudanov24@gmail.com</h3>
