@@ -137,8 +137,8 @@ Let's collaborate and make something amazing together! 🌟
 <h2>📨 Let’s connect and explore ideas together! </h2>
 
 [![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg)](https://linkedin.com/in/ivan-budanov/)
-<br>
-or<br>
+<br><br>
+or<br><br>
 <a href="https://buda.fi/" style="color: orange; text-decoration: none;">Visit Website</a>
 
 
@@ -154,7 +154,7 @@ or<br>
 
 <h3>Email: ibudanov24@gmail.com</h3>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <div align="center">
 <img align="center" height="50" src="https://github.com/user-attachments/assets/c8d57cbf-eda9-4532-b7f4-c79798a8a9d8"/>
