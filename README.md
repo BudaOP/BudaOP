@@ -137,7 +137,8 @@ Let's collaborate and make something amazing together! 🌟
 <h2>📨 Let’s connect and explore ideas together! </h2>
 
 [![LinkedIn](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg)](https://linkedin.com/in/ivan-budanov/)
-[![Instagram](https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg)](https://instagram.com/ibudxnov)
+[<img src="https://twemoji.maxcdn.com/v/latest/72x72/1f4bb.png" width="50" height="50" alt="computer emoji">](https://buda.fi/)
+
 
 
 <br>
@@ -154,5 +155,3 @@ Let's collaborate and make something amazing together! 🌟
 <img align="center" height="50" src="https://github.com/user-attachments/assets/c8d57cbf-eda9-4532-b7f4-c79798a8a9d8"/>
 </div>
 </div>
-
-:computer:
