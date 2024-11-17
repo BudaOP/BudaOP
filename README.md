@@ -19,7 +19,7 @@ creating innovative and impactful solutions. I enjoy blending creativity with te
 building applications, games, and mobile experiences that solve real problems. 
   
 Whether it's full-stack development or exploring new tech stacks, 
-**I strive to deliver quality results with a taste** ✨
+*I strive to deliver quality results with a taste* ✨
 
 Let's bring some creative ideas to life together! 
 🚀 Stay tuned for more exciting projects coming your way!
@@ -37,12 +37,6 @@ Let's bring some creative ideas to life together!
 Let's collaborate and make something amazing together! 🌟
   
 </details></pre>
-
-[<div align="center">
-  <a href="https://github.com/BudaOP/github-widgetbox">
-    <img src="https://github-widgetbox.vercel.app/api/profile?username=BudaOP&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub WidgetBox" />
-  </a>
-</div>] : # 
 
 <h1>Skills</h1>
 <h2 align="left">Tech Stack</h2>
