@@ -33,7 +33,7 @@ Let's bring some creative ideas to life together!
 📚 Learning more about full-stack dev and mobile app development
 🌐 Main tools & languages: MERN stack, Python, SQL, Flask, Unity, React Native
 🎨 Hobbies: Basketball, music production, graphic design, video editing
-🐧 Favourite Animal: Penguins
+🐧 Favourite Animal: Penguin
 
 Let's collaborate and make something amazing together! 🌟
   
