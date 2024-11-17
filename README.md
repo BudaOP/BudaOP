@@ -33,17 +33,16 @@ Let's bring some creative ideas to life together!
 📚 Learning more about full-stack dev and mobile app development
 🌐 Main tools & languages: MERN stack, Python, SQL, Flask, Unity, React Native
 🎨 Hobbies: Basketball, music production, graphic design, video editing
-🐧 Favourite animals are penguins, probably because of Penguins of Madagascar show when I was a kid
 
 Let's collaborate and make something amazing together! 🌟
   
 </details></pre>
 
-<div align="center">
+[<div align="center">
   <a href="https://github.com/BudaOP/github-widgetbox">
     <img src="https://github-widgetbox.vercel.app/api/profile?username=BudaOP&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub WidgetBox" />
   </a>
-</div>
+</div>] : # 
 
 <h1>Skills</h1>
 <h2 align="left">Tech Stack</h2>
