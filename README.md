@@ -30,16 +30,13 @@ Mostly building, learning, testing, breaking things a little, fixing them again,
 and trying to make each project better than the last.
 
 <details>
-  <summary><h2>🏀 More About Me</h2></summary>
+  <summary><h2>🏀 Quick facts</h2></summary>
 <img align="right" height="100" src="https://github.com/user-attachments/assets/656beae8-70fc-4f49-80d6-836668b984d4"  />
-<h3 align="left">Quick Facts 🎮</h3>
 🎓 Final-year ICT student at Metropolia University of Applied Sciences
 🔍 Interested in software development, product design, mobile experiences, and AI tools
-🛠 Currently working on Autohuoltovertailu and other practical product ideas
+🛠 Currently working on Autohuoltovertailu.fi and other practical product ideas
 📚 Learning more about full-stack development, mobile development, and building better product experiences
 🎨 Outside of code: basketball, music production, graphic design, and video editing
-
-Let's collaborate and make something amazing together! 🌟
   
 </details></pre>
 
