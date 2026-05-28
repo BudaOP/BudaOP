@@ -14,11 +14,14 @@
 <pre align="left">
 👋 Hi there! 
   
-I like working on the full path from idea to product: the concept, the user experience, the interface, the code, and the small decisions that make something worth coming back to.
+I like working on the full path from idea to product: the concept, the user experience, 
+the interface, the code, and the small decisions that make something worth coming back to.
 
-My focus is on building useful digital products and learning how to make them better from both the technical and human side.
+My focus is on building useful digital products and learning how to make them better 
+from both the technical and human side.
 
-Currently in my final year of ICT studies at Metropolia University of Applied Sciences, while continuing to grow across software development, product design, mobile development, and AI-assisted building.
+Currently in my final year of ICT studies at Metropolia University of Applied Sciences, 
+while continuing to grow across software development, product design, mobile development, and AI-assisted building.
 
 Let's bring some creative ideas to life together! 
 🚀 Stay tuned for more exciting projects coming your way!
