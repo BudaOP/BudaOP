@@ -12,20 +12,23 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <pre align="left">
-👋 Hi there! 
-  
-I like working on the full path from idea to product: the concept, the user experience, 
-the interface, the code, and the small decisions that make something worth coming back to.
+👋 Hi there!
 
-My focus is on building useful digital products and learning how to make them better 
-from both the technical and human side.
+I like taking an idea from “this could be something” to “okay, this actually works.”
+
+That usually means thinking through the concept, the user experience, the interface, 
+the code, and all the small details that decide whether a product feels worth coming back to.
+
+I’m focused on building useful digital products and learning how to make them 
+better from both the technical and human side.
 
 Currently in my final year of ICT studies at Metropolia University of Applied Sciences, 
 while continuing to grow across software development, product design, mobile development, 
 and AI-assisted building.
 
-Let's bring some creative ideas to life together! 
-🚀 Stay tuned for more exciting projects coming your way!
+Mostly building, learning, testing, breaking things a little, fixing them again, 
+and trying to make each project better than the last.
+
 <details>
   <summary><h2>🏀 More About Me</h2></summary>
 <img align="right" height="100" src="https://github.com/user-attachments/assets/656beae8-70fc-4f49-80d6-836668b984d4"  />
