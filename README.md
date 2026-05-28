@@ -31,7 +31,6 @@ and trying to make each project better than the last.
 
 <details>
   <summary><h2>🏀 Quick facts</h2></summary>
-<img align="right" height="100" src="https://github.com/user-attachments/assets/656beae8-70fc-4f49-80d6-836668b984d4"  />
 🎓 Final-year ICT student at Metropolia University of Applied Sciences
 🔍 Interested in software development, product design, mobile experiences, and AI tools
 🛠 Currently working on Autohuoltovertailu.fi and other practical product ideas
