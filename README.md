@@ -35,7 +35,7 @@ and trying to make each project better than the last.
 🔍 Interested in software development, product design, mobile experiences, and AI tools
 🛠 Currently working on Autohuoltovertailu.fi and other practical product ideas
 📚 Learning more about full-stack development, mobile development, 
-and building better product experiences
+    and building better product experiences
 🎨 Outside of code: basketball, music production, graphic design, and video editing
   
 </details></pre>
