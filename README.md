@@ -14,12 +14,11 @@
 <pre align="left">
 👋 Hi there! 
   
-I'm a passionate software engineering enthusiast with a love for
-creating innovative and impactful solutions. I enjoy blending creativity with technology, 
-building applications, games, and mobile experiences that solve real problems. 
-  
-Whether it's full-stack development or exploring new tech stacks,
-I strive to deliver quality results with a taste ✨
+I like working on the full path from idea to product: the concept, the user experience, the interface, the code, and the small decisions that make something worth coming back to.
+
+My focus is on building useful digital products and learning how to make them better from both the technical and human side.
+
+Currently in my final year of ICT studies at Metropolia University of Applied Sciences, while continuing to grow across software development, product design, mobile development, and AI-assisted building.
 
 Let's bring some creative ideas to life together! 
 🚀 Stay tuned for more exciting projects coming your way!
@@ -27,13 +26,11 @@ Let's bring some creative ideas to life together!
   <summary><h2>🏀 More About Me</h2></summary>
 <img align="right" height="100" src="https://github.com/user-attachments/assets/656beae8-70fc-4f49-80d6-836668b984d4"  />
 <h3 align="left">Quick Facts 🎮</h3>
-🎓 Student @Metropolia UAS, pursuing Information & Communication Tech
-🔍 Main interests: Software development, app & game creation, mobile experiences
-🛠 Working on JobScout, improving and refining it; new projects coming soon!
-📚 Learning more about full-stack dev and mobile app development
-🌐 Main tools & languages: MERN stack, Python, SQL, Flask, Unity, React Native
-🎨 Hobbies: Basketball, music production, graphic design, video editing
-🐧 Favourite Animal: Penguin
+🎓 Final-year ICT student at Metropolia University of Applied Sciences
+🔍 Interested in software development, product design, mobile experiences, and AI tools
+🛠 Currently working on Autohuoltovertailu and other practical product ideas
+📚 Learning more about full-stack development, mobile development, and building better product experiences
+🎨 Outside of code: basketball, music production, graphic design, and video editing
 
 Let's collaborate and make something amazing together! 🌟
   
